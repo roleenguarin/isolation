@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" maxHeight="1080.0" maxWidth="1920.0" prefHeight="270.0" prefWidth="480.0" style="-fx-background-color: black;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/16">
+   <children>
+      <Label layoutX="170.0" layoutY="126.0" text="di na itu gagawin :))))&lt;3" textFill="WHITE" AnchorPane.bottomAnchor="126.4" AnchorPane.leftAnchor="170.0" AnchorPane.rightAnchor="170.8" AnchorPane.topAnchor="126.0">
+         <font>
+            <Font name="Bell MT" size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
